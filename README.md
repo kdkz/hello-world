@@ -1,2 +1,2 @@
 # hello-world
-Sample repository
+Hi.  I'm just learning.  See you soon.
